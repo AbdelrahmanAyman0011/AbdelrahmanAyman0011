@@ -29,9 +29,8 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I am a Cyber Security Student」
+    「 I am a Cyber Security Student ✨」
     <br>
     <br>
   </samp>
