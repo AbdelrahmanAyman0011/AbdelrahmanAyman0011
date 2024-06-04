@@ -50,7 +50,7 @@
  <a href="https://twitter.com/bedo__ayman" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/" target="_blank">
+ <a href="https://instagram.com/bedo__ayman" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="abdelrahmanayman0011" />
  </a> 
  <a href="https://facebook.com/abdelrahmanayman0011.dev" target="_blank">
