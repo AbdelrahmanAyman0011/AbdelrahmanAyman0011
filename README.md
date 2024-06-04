@@ -37,9 +37,6 @@
 </p>
 
 <p align="center">
- <a href="https://abdelrahmanayman0011.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="abdelrahmanayman0011" />
- </a>
  <a href="https://linkedin.com/in/bedoayman" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="abdelrahmanayman0011"/>
  </a>
@@ -52,9 +49,6 @@
  <a href="https://instagram.com/bedo__ayman" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="abdelrahmanayman0011" />
  </a> 
- <a href="https://facebook.com/abdelrahmanayman0011.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="abdelrahmanayman0011"  />
-  </a> 
 </p>
 <br />
 
