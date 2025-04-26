@@ -20,9 +20,6 @@
   <a href="https://github.com/abdelrahmanayman0011">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="tel:+201026550844">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
-  </a>
   <a href="https://komarev.com/ghpvc/?username=abdelrahmanayman0011">
     <img src="https://komarev.com/ghpvc/?username=abdelrahmanayman0011&label=Profile+Views&color=7F3FBF&style=flat" alt="Profile views">
   </a>
