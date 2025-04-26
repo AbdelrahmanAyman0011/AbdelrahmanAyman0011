@@ -106,9 +106,6 @@
   <a href="mailto:abdelrahmanayman0011@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://leetcode.com/u/[YOUR_LEETCODE]/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
-  </a>
 </p>
 
 <div align="center">
