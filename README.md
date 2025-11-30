@@ -10,11 +10,6 @@
   </a>
 </p>
 
-<!-- animated underline -->
-<p align="center">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='760' height='12' viewBox='0 0 760 12'><defs><linearGradient id='g' x1='0' x2='1'><stop offset='0' stop-color='%237F3FBF'/><stop offset='0.5' stop-color='%23FF6B6B'/><stop offset='1' stop-color='%23FFD93D'/></linearGradient><style>@keyframes slide{0%{transform:translateX(-30%)}50%{transform:translateX(30%)}100%{transform:translateX(-30%)}} .bar{width:120%;height:8px;fill:url(%23g);transform-origin:center;animation:slide 3s ease-in-out infinite}</style></defs><rect class='bar' x='-80' y='2' rx='4' width='920' height='8'/></svg>" alt="animated underline" />
-</p>
-
 <div align="center">
   <a href="https://www.linkedin.com/in/bedoayman/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
