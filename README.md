@@ -50,13 +50,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
- 
-  <br/>
-  <a href="https://github.com/AbdelrahmanAyman0011">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman0011&theme=radical&border=7F3FBF" height="180">
-  </a>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAyman0011&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman0011&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&text_color=FFFFFF" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAyman0011&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F3FBF&text_color=FFFFFF" alt="Top Languages" height="180">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman0011&theme=radical&hide_border=true&background=0D1117&stroke=7F3FBF&ring=7F3FBF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanAyman0011&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAyman0011&theme=radical&no-frame=true&no-bg=true&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="GitHub Trophies">
 </div>
 
 ---
