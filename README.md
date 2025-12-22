@@ -54,9 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAyman0011&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F3FBF&text_color=FFFFFF" alt="Top Languages" height="180">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman0011&theme=radical&hide_border=true&background=0D1117&stroke=7F3FBF&ring=7F3FBF&fire=FF6B6B&currStreakLabel=FFFFFF" >
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanAyman0011&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph">
