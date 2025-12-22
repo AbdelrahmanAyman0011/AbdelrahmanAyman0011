@@ -55,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman0011&theme=radical&hide_border=true&background=0D1117&stroke=7F3FBF&ring=7F3FBF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAyman0011&theme=radical&hide_border=true&background=0D1117&stroke=7F3FBF&ring=7F3FBF&fire=FF6B6B&currStreakLabel=FFFFFF" >
 </div>
 
 <div align="center">
@@ -63,7 +63,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelrahmanAyman0011&theme=radical&no-frame=true&no-bg=true&column=7&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" alt="GitHub Trophies">
+
 </div>
 
 ---
