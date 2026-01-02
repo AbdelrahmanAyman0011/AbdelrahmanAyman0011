@@ -47,23 +47,6 @@
 - 👨‍🏫 **Peer Mentor** – Led problem-solving training sessions in programming & algorithms  
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAyman0011&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F3FBF&icon_color=7F3FBF&text_color=FFFFFF" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAyman0011&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7F3FBF&text_color=FFFFFF" alt="Top Languages" height="180">
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelrahmanAyman0011&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph">
-</div>
-
-<div align="center">
-
-</div>
-
----
 
 ## 🌟 Let's Connect!
 
