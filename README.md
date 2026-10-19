@@ -1,12 +1,10 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Abdelrahman Mohamed 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelrahman+Mohamed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity+Graduate+%26+System+Engineer&descSize=18&descAlignY=58" width="100%"/>
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&pause=700&color=7F3FBF&center=true&vCenter=true&width=760&lines=Cyber+Security+Student+@+Alexandria+National+University;Meta+Intern+%7C+Network+Production+Engineering;Full-stack+Developer+%7C+AI%2FML+Enthusiast;Linux+Specialist+%7C+Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=7F3FBF&repeat=true&center=true&vCenter=true&width=760&lines=Cybersecurity+Graduate+%26+System+Engineer;Alexandria+National+University+%7C+Class+of+2026;Ex+Meta+%7C+Network+Production+Engineering+Intern;AWS+%7C+Terraform+%7C+Serverless+%7C+Linux" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,23 +25,33 @@
 </div>
 
 ---
-- **Ex Meta | Network Production Engineering Intern** 
-- **Ex iSchool | Coding Instructor** 
+- **System Engineer | Early-Stage Startup** (Oct 2025 – Present)
+- **Ex Pixelogic Media | DevOps Intern**
+- **Ex Meta | Network Production Engineering Intern**
+- **Ex iSchool | Coding Instructor**
+
+🌐 **Portfolio:** [abdelrahmanayman0011.github.io](https://abdelrahmanayman0011.github.io)
 
 
 
 ## 🛠️ Technical Skills
 
-**Languages:** C++, Java, Python, HTML, CSS, C, SQL, PHP  
+**Languages:** C++, Java, Python, Rust, HTML, CSS, C, SQL, PHP  
+**Cloud & DevOps:** AWS (Lambda, Athena, IAM), Terraform, Terragrunt, LocalStack, PostgreSQL  
 **Networking & Systems:** Linux, Kernel Concepts, TCP/IP, DNS, ICMP, UDP  
 **Tools & Technologies:** Git, GitHub, Cisco Packet Tracer  
 **Concepts:** OOP, Database Management, Networking, Troubleshooting, Problem Solving  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,rust,aws,terraform,postgres,linux,git,github&perline=10" alt="Skills" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
 - 🥇 **1st Place** in University ECPC Qualifications → Advanced to ECPC Finals (twice)  
+- ☁️ **AWS Academy Graduate** – Cloud Security Foundations & Cloud Foundations  
 - 👨‍🏫 **Peer Mentor** – Led problem-solving training sessions in programming & algorithms  
 ---
 
@@ -63,5 +71,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 </div>
