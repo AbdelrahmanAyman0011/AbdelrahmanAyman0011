@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=7F3FBF&height=170&section=header&text=Abdelrahman+Mohamed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity+Graduate+and+System+Engineer&descSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=7F3FBF&height=110&section=header&text=Abdelrahman+Mohamed&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity+Graduate+and+System+Engineer&descSize=15&descAlignY=65" width="100%"/>
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=7F3FBF&repeat=true&center=true&vCenter=true&width=760&lines=Cybersecurity+Graduate+%26+System+Engineer;Alexandria+National+University+%7C+Class+of+2026;Ex+Meta+%7C+Network+Production+Engineering+Intern;AWS+%7C+Terraform+%7C+Serverless+%7C+Linux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=7F3FBF&repeat=true&center=true&vCenter=true&width=760&lines=Cybersecurity+Graduate+%26+System+Engineer;Alexandria+National+University+%7C+Class+of+2026;Ex+Meta+%7C+Network+Production+Engineering+Intern;AWS+%7C+Terraform+%7C+Serverless+%7C+Linux" alt="Typing SVG" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 **Concepts:** OOP, Database Management, Networking, Troubleshooting, Problem Solving  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,py,rust,aws,terraform,postgres,linux,git,github&perline=10" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,py,rust,aws,terraform,postgres,linux,git,github&perline=10&theme=dark" alt="Skills" />
 </p>
 
 ---
@@ -71,5 +71,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=40&section=footer"/>
 </div>
