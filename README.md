@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdelrahman+Mohamed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity+Graduate+%26+System+Engineer&descSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=7F3FBF&height=170&section=header&text=Abdelrahman+Mohamed&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity+Graduate+and+System+Engineer&descSize=18&descAlignY=58" width="100%"/>
 </div>
 
 <p align="center">
@@ -71,5 +71,5 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=100&section=footer&animation=twinkling"/>
 </div>
